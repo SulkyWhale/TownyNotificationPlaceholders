@@ -1,0 +1,6 @@
+name: TownyNotificationPlaceholders
+version: ${project.version}
+main: io.github.sulkywhale.townytext.TownyNotificationPlaceholders
+api-version: '1.21'
+author: Sulky_Whale
+depend: [Towny, PlaceholderAPI]
