@@ -1,4 +1,4 @@
-package io.github.sulkywhale.townytext;
+package io.github.sulkywhale.townynotificationsplacholders;
 
 import org.bukkit.plugin.java.JavaPlugin;
 
